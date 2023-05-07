@@ -1,0 +1,26 @@
+[
+  {
+    "name": "FAKE USDC",
+    "address": "0xF883A061ca65441CaCB08725b384311edEffdB12",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
+  },
+  {
+    "name": "Wrapped ETH",
+    "address": "0xACf3D7D7Fe5Ae8B16C73cBd59a21Ab6C573Ef5cD",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/logo.png"
+  },
+  {
+    "name": "VS",
+    "address": "0x6d24446672c728F241DC670DfCFd5aa95E961b3e",
+    "symbol": "VS",
+    "decimals": 18,
+    "chainId": 280,
+    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x85d84c774cf8e9ff85342684b0e795df72a24908/logo.png"
+  }
+]
