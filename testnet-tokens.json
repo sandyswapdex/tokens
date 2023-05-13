@@ -34,41 +34,5 @@
     "chainId": 280,
     "coingeckoName": "velodrome",
     "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x85d84c774cf8e9ff85342684b0e795df72a24908/logo.png"
-  },
-  {
-    "name": "Mock 1",
-    "address": "0xb1D13dED064863650055B8f8d46f27e59deCaa73",
-    "symbol": "MOCK1",
-    "decimals": 18,
-    "chainId": 280,
-    "coingeckoName": "bitcoin",
-    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
-  },
-  {
-    "name": "Mock 2",
-    "address": "0x7b9e519a506beeE38591432Bf763f116e9CBa9ef",
-    "symbol": "MOCK2",
-    "decimals": 18,
-    "chainId": 280,
-    "coingeckoName": "litecoin",
-    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
-  },
-  {
-    "name": "Mock 3",
-    "address": "0x3CD4169DBfA56AefeC52b11Ad8f3485De1625751",
-    "symbol": "MOCK3",
-    "decimals": 18,
-    "chainId": 280,
-    "coingeckoName": "tether",
-    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
-  },
-  {
-    "name": "Mock 4",
-    "address": "0x3C6Dd38191Af4D7917fcdFa2CFfB2B9ccFB4E9B1",
-    "symbol": "MOCK4",
-    "decimals": 18,
-    "chainId": 280,
-    "coingeckoName": "tether",
-    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4/logo.png"
   }
 ]
