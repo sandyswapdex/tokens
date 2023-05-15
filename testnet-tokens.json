@@ -27,12 +27,12 @@
     "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/logo.png"
   },
   {
-    "name": "VS",
+    "name": "veSync",
     "address": "0xF64aB7f85e7B2FCa2cD91ceD584718Bd8db58c22",
     "symbol": "VS",
     "decimals": 18,
     "chainId": 280,
     "coingeckoName": "velodrome",
-    "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x85d84c774cf8e9ff85342684b0e795df72a24908/logo.png"
+    "logoURI": "https://github.com/veSync/public/blob/main/assets/VS.png"
   }
 ]
