@@ -17,7 +17,7 @@
     "coingeckoName": "ethereum",
     "logoURI": "https://github.com/veSync/tokens/raw/main/icons/0x5aea5775959fbc2557cc8789bc1bf90a239d9a91/logo.png"
   },
-    {
+  {
     "name": "VS Wrapped ETH",
     "address": "0xACf3D7D7Fe5Ae8B16C73cBd59a21Ab6C573Ef5cD",
     "symbol": "VSWETH",
@@ -28,7 +28,7 @@
   },
   {
     "name": "VS",
-    "address": "0x40cCCC35Ee8031fF95c110B36B3cea6bF33d5dF7",
+    "address": "0xF64aB7f85e7B2FCa2cD91ceD584718Bd8db58c22",
     "symbol": "VS",
     "decimals": 18,
     "chainId": 280,
