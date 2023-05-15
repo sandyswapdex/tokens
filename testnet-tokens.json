@@ -33,6 +33,6 @@
     "decimals": 18,
     "chainId": 280,
     "coingeckoName": "velodrome",
-    "logoURI": "https://github.com/veSync/public/blob/main/assets/VS.png"
+    "logoURI": "https://github.com/veSync/public/blob/main/assets/VS-SVG.svg"
   }
 ]
